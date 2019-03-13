@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>countries</key>
+	<array>
+		<string>India</string>
+		<string>Canada</string>
+		<string>Europe</string>
+		<string>America</string>
+        <string>China</string>
+	</array>
+	<key>employees</key>
+	<array>
+		<dict>
+			<key>employeeId</key>
+			<integer>11</integer>
+			<key>employeeName</key>
+			<string>Sean</string>
+			<key>employeeSalary</key>
+			<integer>1050</integer>
+		</dict>
+        <dict>
+            <key>employeeId</key>
+            <integer>22</integer>
+            <key>employeeName</key>
+            <string>Steven</string>
+            <key>employeeSalary</key>
+            <integer>1060</integer>
+        </dict>
+        <dict>
+            <key>employeeId</key>
+            <integer>33</integer>
+            <key>employeeName</key>
+            <string>Dave</string>
+            <key>employeeSalary</key>
+            <integer>1070</integer>
+        </dict>
+	</array>
+</dict>
+</plist>
